@@ -1,2 +1,4 @@
-# stepik_auto_tests_course
-Tasks for auto_tests_course
+# stepik\_auto\_tests\_course
+
+Tasks for auto\_tests\_course (https://stepik.org/575) 
+
